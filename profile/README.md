@@ -1,6 +1,6 @@
 # Welcome to OC HH
 
-![OC HH Logo](../assets/oc_logo.png)
+![OC HH Logo]('https://raw.githubusercontent.com/OC-HH/.github/main/assets/oc_logo.png')
 
 ## Tools we like to use:
 
